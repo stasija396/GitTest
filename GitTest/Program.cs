@@ -13,6 +13,8 @@ namespace GitTest
 
 
             //stasa radi na svojoj grani..
+
+            //meanwhile kod ide dalje
         }
     }
 }
