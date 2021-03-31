@@ -8,6 +8,8 @@ namespace GitTest
         {
             Console.WriteLine("kreiranje projekta i repoa");
             //još jedan commit prije nego što stasija pulla
+
+            //stasa radi na svojoj grani paralelno samnom
         }
     }
 }
