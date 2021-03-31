@@ -13,6 +13,9 @@ namespace GitTest
 
 
             //stasa radi na svojoj grani..
+
+            //tasa tu kao radi promjene
+            //rad jos promjena
         }
     }
 }
